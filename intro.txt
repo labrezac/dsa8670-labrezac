@@ -4,6 +4,6 @@ Name: Luke Brezac
 
 Major / program: Data Science & Analytics
 
-Favorite dataset or industry interest:
+Favorite dataset or industry interest: Sports, Media
 
 One reason I am studying analytics:
