@@ -70,6 +70,12 @@ By the end of Week 5, you should be able to:
 
 ---
 
+## Version Control in Analytics
+
+Version control matters for analytics because it tracks changes to scripts and documents, making it easier to understand how an analysis developed. It also lets analysts compare versions and recover earlier work when a change introduces an error. This connects to this week's Chapter 1 reading in *GitHub for Dummies*, especially the topics of understanding version control and Git. The Chapter 3 topics of repositories, pull requests, and Issues also connect to analytics teamwork by giving collaborators a way to organize work and review changes before combining them.
+
+---
+
 ## License
 
 This repository uses the MIT License (see `LICENSE`).
