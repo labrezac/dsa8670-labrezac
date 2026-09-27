@@ -6,4 +6,4 @@ Major / program: Data Science & Analytics
 
 Favorite dataset or industry interest: Sports, Media
 
-One reason I am studying analytics:
+One reason I am studying analytics: I want to know how to solve complex problems using data.
